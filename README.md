@@ -7,6 +7,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musamairshad)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musamairshad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=musamairshad)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musamairshad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musamairshad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
