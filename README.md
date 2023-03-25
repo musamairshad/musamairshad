@@ -6,7 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/musamairshad) 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musamairshad&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musamairshad&repo=musamairshad" />
 </a>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=musamairshad)  
