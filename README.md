@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&width=435&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'm+Usama+Irshad;I'm+currently+a+Computer+Science+Student)](https://git.io/typing-svg)
 ## Computer Science Student
 
 #### I'm Usama Irshad from Pakistan, and I am currently a student of Computer Science at IQRA University, Karachi, Pakistan. I am highly motivated to learn and grow as a professional in the tech industry.
