@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&width=435&lines=Hello+everyone+%F0%9F%91%8B;I'm+Usama+Irshad;Computer+Science+Student)](https://git.io/typing-svg)
+<h1 align="center"> Hello everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Usama Irshad</h1>
 ### I'm Usama Irshad from Pakistan, and I am currently a student of Computer Science at IQRA University, Karachi, Pakistan. I am highly motivated to learn and grow as a professional in the tech industry.
 
 ## 🤝Connect
