@@ -4,7 +4,7 @@
          width="45" /> I'm Muhammad Usama</h1>
 
 # 💫 About Me:
-## I'm Muhammad Usama from Pakistan, and I am currently a computer science student at IQRA University, Karachi, Pakistan. I am highly motivated to learn and grow as a tech industry professional.
+# I'm Muhammad Usama from Pakistan, and I am currently a computer science student at IQRA University, Karachi, Pakistan. I am highly motivated to learn and grow as a tech industry professional.
 
 
 ## 🌐 Socials:
